@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Burger and Fries",
+      "recipe": "Burger and Fries's recipe",
+      "description": "Tasty and junky burger and fries",
+      "image": "https://img.freepik.com/free-photo/big-hamburger-with-double-beef-french-fries_252907-8.jpg?size=626&ext=jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hot dogs",
+      "recipe": "Hot dogs's recipe",
+      "description": "Tasty and junky hotdogs",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/processed-food700-350-e6d0f0f.jpg?quality=90&resize=556,505"
+    },
+    {
+      "id": 3,
+      "name": "Cheese sandwich",
+      "recipe": "Cheese sandwich's recipe",
+      "description": "Tasty and junky sandwich",
+      "image": "https://daily.jstor.org/wp-content/uploads/2020/05/a_brief_history_of_comfort_food_1_1050x700.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Biryani",
+      "recipe": "Biryani's recipe",
+      "description": "Amazing biryani",
+      "image": "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Masala Dosa",
+      "recipe": "Masala Dosa's recipe",
+      "description": "Delicious Dosa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3zMUBZuxNviR7ydYTkRhdJXUVkxenVc9IxQ&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Noodles",
+      "recipe": "Noodles's recipe",
+      "description": "Tasty and junky noodles",
+      "image": "https://thumbs.dreamstime.com/b/bowl-indo-chinese-veg-manchurian-snack-served-along-hakka-noodles-veg-manchurian-hakka-noodles-137569494.jpg"
+    }
+  ]
+}
